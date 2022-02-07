@@ -15,3 +15,11 @@
 3. Getting Started:
 
     - https://create-react-app.dev/docs/adding-typescript/
+
+4. Typing Props:
+
+    - 
+
+5. Basic Prop types:
+
+    - 
